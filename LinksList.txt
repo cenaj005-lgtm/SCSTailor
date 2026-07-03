@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/tailor.exe
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/tailor.zip
