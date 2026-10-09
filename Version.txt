@@ -1,2 +1,5 @@
-1.0.0.0
-Just Created the tailor mis
+1.0.0.1
+
+What's new
+- SCS License Manager now issues Tailor POS keys and prepares shop PCs.
+- The shared updater checks this Tailor POS version.
