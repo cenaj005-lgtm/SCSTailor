@@ -1,5 +1,4 @@
-1.0.0.1
+1.0.0.2
 
 What's new
-- SCS License Manager now issues Tailor POS keys and prepares shop PCs.
-- The shared updater checks this Tailor POS version.
+- Tailor POS opens with the database and shop details already saved in SCS License Manager.
