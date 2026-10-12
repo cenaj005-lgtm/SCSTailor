@@ -1,5 +1,4 @@
-1.0.0.14
+1.0.0.15
 
 What's new
-- چاپ اندازه prints the measurements once, on one page.
-- چاپ بل prints the payment only: customer, garment, quantity, total, and paid.
+- The printer chosen in settings is used for the bill, measurements, and the full invoice.
