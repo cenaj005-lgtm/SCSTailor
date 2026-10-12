@@ -1,5 +1,5 @@
-1.0.0.5
+1.0.0.6
 
 What's new
-- Tailor POS opens when app settings are incomplete, the connection string is missing, or license registry values cannot be read.
-- Tailor POS opens the LocalDB file chosen in SCS License Manager, and the log file beside it.
+- Tailor POS opens the existing TailorData.mdf and TailorLog.ldf and does not show Database Setup when those files are already there.
+- A missing connection string, or a setting that points at a missing file, no longer creates a new database.
