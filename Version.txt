@@ -1,6 +1,6 @@
-1.0.0.9
+1.0.0.11
 
 What's new
-- Tailor POS opens the SCSTailor.mdf saved by License Manager, or the copy beside TailorPOS.exe. A missing D:\SHAL TAILOR path is not kept.
-- New Tailor databases use the name SCSTailor so a cached TailorData database cannot block them.
-- Startup and license-manager actions are written to a log file.
+- Thermal invoices wrap inside the page and use a bolder font.
+- Settings can show or hide measurement fields, and place قد on the top row or the 3rd row.
+- Tab order follows the fields, short passwords are allowed, and the screens flicker less.
