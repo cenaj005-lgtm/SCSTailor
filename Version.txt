@@ -1,6 +1,7 @@
-1.0.0.12
+1.0.0.13
 
 What's new
+- Body measurements and فرمایشات are separate in settings, with their own order and names on the form and on the print.
 - Users can add, rename, and remove measurements, and invoices use those names.
 - جامې، واسکټ، and کوټ have چاپ اندازه, which prints measurements only.
 - Logging stays off unless لاګ فعال is turned on in settings.
