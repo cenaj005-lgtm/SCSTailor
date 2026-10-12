@@ -1,4 +1,4 @@
-1.0.0.4
+1.0.0.5
 
 What's new
 - Tailor POS opens when app settings are incomplete, the connection string is missing, or license registry values cannot be read.
