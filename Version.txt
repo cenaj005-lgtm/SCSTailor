@@ -1,5 +1,4 @@
-1.0.0.7
+1.0.0.9
 
 What's new
-- Tailor POS opens the database file saved by SCS License Manager and does not show Database Setup when that connection or an existing Tailor database file is available.
-- Registering Tailor POS saves the database file you choose. The Zeerak license is not changed.
+- Startup and license-manager actions are written to a log file.
