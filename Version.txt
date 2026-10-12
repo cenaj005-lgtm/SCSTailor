@@ -1,4 +1,4 @@
-1.0.0.8
+1.0.0.9
 
 What's new
 - Tailor POS opens the SCSTailor.mdf saved by License Manager, or the copy beside TailorPOS.exe. A missing D:\SHAL TAILOR path is not kept.
