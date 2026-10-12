@@ -1,4 +1,4 @@
-1.0.0.16
+1.0.0.17
 
 What's new
-- Printer choice says thermal printer, and the قد 3rd-line comboboxes are removed.
+- Measurement rows can be dragged to a new order, or jumped to the top or bottom.
