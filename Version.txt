@@ -1,4 +1,5 @@
-1.0.0.9
+1.0.0.10
 
 What's new
-- Startup and license-manager actions are written to a log file.
+- Pashto invoices now print every measurement, including sleeve length, plus total, paid and balance on thermal and A4.
+- Garment forms open faster.
