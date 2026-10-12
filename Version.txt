@@ -1,4 +1,4 @@
-1.0.0.15
+1.0.0.16
 
 What's new
-- The printer chosen in settings is used for the bill, measurements, and the full invoice.
+- Printer choice says thermal printer, and the قد 3rd-line comboboxes are removed.
