@@ -1,5 +1,5 @@
-1.0.0.6
+1.0.0.7
 
 What's new
-- Tailor POS opens the existing TailorData.mdf and TailorLog.ldf and does not show Database Setup when those files are already there.
-- A missing connection string, or a setting that points at a missing file, no longer creates a new database.
+- Tailor POS opens the database file saved by SCS License Manager and does not show Database Setup when that connection or an existing Tailor database file is available.
+- Registering Tailor POS saves the database file you choose. The Zeerak license is not changed.
