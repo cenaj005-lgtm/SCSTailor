@@ -1,6 +1,6 @@
-1.0.0.11
+1.0.0.12
 
 What's new
-- Thermal invoices wrap inside the page and use a bolder font.
-- Settings can show or hide measurement fields, and place قد on the top row or the 3rd row.
-- Tab order follows the fields, short passwords are allowed, and the screens flicker less.
+- Users can add, rename, and remove measurements, and invoices use those names.
+- جامې، واسکټ، and کوټ have چاپ اندازه, which prints measurements only.
+- Logging stays off unless لاګ فعال is turned on in settings.
