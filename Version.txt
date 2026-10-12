@@ -1,4 +1,4 @@
-1.0.0.2
+1.0.0.3
 
 What's new
-- Tailor POS opens with the database and shop details already saved in SCS License Manager.
+- Tailor POS opens the LocalDB file chosen in SCS License Manager, and the log file beside it.
