@@ -1,4 +1,6 @@
-1.0.0.9
+1.0.0.8
 
 What's new
+- Tailor POS opens the SCSTailor.mdf saved by License Manager, or the copy beside TailorPOS.exe. A missing D:\SHAL TAILOR path is not kept.
+- New Tailor databases use the name SCSTailor so a cached TailorData database cannot block them.
 - Startup and license-manager actions are written to a log file.
