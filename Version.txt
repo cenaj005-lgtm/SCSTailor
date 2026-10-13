@@ -1,4 +1,5 @@
-1.0.0.17
+1.0.0.18
 
 What's new
-- Measurement rows can be dragged to a new order, or jumped to the top or bottom.
+- Settings labels in English, قد - اندازه title, Home, and a Users Registration form.
+- Backup time is a 12-hour clock with AM/PM.
