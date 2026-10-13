@@ -1,5 +1,6 @@
-1.0.0.18
+1.0.0.19
 
 What's new
-- Settings labels in English, قد - اندازه title, Home, and a Users Registration form.
-- Backup time is a 12-hour clock with AM/PM.
+- The bill shows date, return date, phone, and the measurements barcode.
+- The measurements slip shows name, phone, and that barcode.
+- Delete all data starts the next customer code at C00000001 again.
