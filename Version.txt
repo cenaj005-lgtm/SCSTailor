@@ -1,6 +1,1 @@
-1.0.0.19
-
-What's new
-- The bill shows date, return date, phone, and the measurements barcode.
-- The measurements slip shows name, phone, and that barcode.
-- Delete all data starts the next customer code at C00000001 again.
+1.0.0.25
