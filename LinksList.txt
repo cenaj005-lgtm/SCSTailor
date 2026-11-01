@@ -5,6 +5,12 @@ https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.Extensi
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.Extensions.Logging.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.Extensions.Options.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.Extensions.Primitives.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.ReportViewer.Common.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.ReportViewer.DataVisualization.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.ReportViewer.ProcessingObjectModel.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.ReportViewer.WinForms.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.SqlServer.Server.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Microsoft.SqlServer.Types.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/MigraDoc.DocumentObjectModel.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/MigraDoc.Rendering.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/MigraDoc.RtfRendering.dll
@@ -18,6 +24,7 @@ https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/PdfSharp.Snippets
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/PdfSharp.System.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/PdfSharp.WPFonts.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/SCSControls.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/stdole.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/System.Buffers.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/System.Diagnostics.DiagnosticSource.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/System.Memory.dll
@@ -30,4 +37,9 @@ https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/TailorPOS.exe
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/TailorPOS.exe.config
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/TailorPOS.Shared.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Telerik.WinControls.ChartView.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Telerik.WinControls.dll
 https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Telerik.WinControls.GridView.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/Telerik.WinControls.UI.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/TelerikCommon.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/zxing.dll
+https://raw.githubusercontent.com/cenaj005-lgtm/SCSTailor/main/zxing.presentation.dll
